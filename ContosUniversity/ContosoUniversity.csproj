@@ -18,4 +18,8 @@
 		<Folder Include="Migrations\" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <None Include="wwwroot\css\Custom.css" />
+	</ItemGroup>
+
 </Project>

@@ -1,0 +1,44 @@
+﻿.btn, .btn .btn-primary {
+    border-radius: 0px;
+    background-color: #023047;
+    border-color: #023047;
+    color: #ffb703;
+}
+
+ul.li.nav-item a.nav-link:hover, a.text-dark:focus, a.text-dark:hover, ul.li.nav-item a.nav-link:focus, ul.li.nav-item a.nav-link:active, a:hover, btn:hover, btn:focus, .btn-primary:not(:disabled):not(.disabled):active {
+    color: #023047 !important;
+    background-color: #ffb703 !important;
+    border-color: #ffb703 !important;
+}
+
+a, p, td, tbody {
+    color: #023047;
+    font-family: 'Roboto', sans-serif;
+}
+
+.table-success, .table-success > td, .table-success > th, thead {
+    background-color: #ffb703;
+}
+
+h1, h2, h3, h4, th, thead {
+    font-family: 'Joan', serif;
+}
+
+div.jumbotron {
+    background-color: #023047;
+    color: #ffb703;
+}
+
+.navbar-toggler-icon {
+    background-color: #ffb703;
+}
+
+.bg-custom, .navbar-brand, .dropdown-menu, .dropdown-menu a, nav a, a.navbar-brand, li.nav-item, a.nav-link {
+    color: #ffb703 !important;
+    background-color: #023047 !important;
+}
+
+#img {
+    max-width: 50% !important;
+    max-height: 50% !important;
+}
